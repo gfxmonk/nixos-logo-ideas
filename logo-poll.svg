@@ -273,16 +273,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51422962"
-     inkscape:cx="548.54147"
-     inkscape:cy="37.74286"
+     inkscape:zoom="0.20093587"
+     inkscape:cx="437.8273"
+     inkscape:cy="-35.758556"
      inkscape:document-units="px"
-     inkscape:current-layer="g5514"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1880"
-     inkscape:window-height="1088"
-     inkscape:window-x="20"
-     inkscape:window-y="47"
+     inkscape:window-width="960"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
      inkscape:snap-intersection-paths="true"
@@ -301,7 +301,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -389,14 +389,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:323.5892334px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="632.28339"
-       y="781.35938"
+       x="647.2135"
+       y="209.03748"
        id="text5819"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5821"
-         x="632.28339"
-         y="781.35938">NixOS</tspan></text>
+         x="647.2135"
+         y="209.03748">NixOS</tspan></text>
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
@@ -696,6 +696,21 @@
          id="tspan4257"
          x="639.98828"
          y="3251.6001">NixOS</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5407"
+       y="796.28949"
+       x="637.26007"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:323.5892334px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/tim/dev/nix/logo/poll/text.png"
+       inkscape:export-xdpi="67.440002"
+       inkscape:export-ydpi="67.440002"><tspan
+         y="796.28949"
+         x="637.26007"
+         id="tspan5409"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vegur;-inkscape-font-specification:Vegur">NixOS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
